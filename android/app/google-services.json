@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "876771859949",
+    "project_id": "mydelivery-dfa32",
+    "storage_bucket": "mydelivery-dfa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876771859949:android:9c31ab83a2632dd8505be4",
+        "android_client_info": {
+          "package_name": "com.swadesh.mydelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876771859949-umj31f5iujufkk6ur8eegtegql16dsiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mqehPgDJv6Ao3TNm2SZHJO4iww1_CJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876771859949-umj31f5iujufkk6ur8eegtegql16dsiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876771859949:android:9980b88312e1b5ef505be4",
+        "android_client_info": {
+          "package_name": "com.swadesh.mydelivery_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876771859949-umj31f5iujufkk6ur8eegtegql16dsiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0mqehPgDJv6Ao3TNm2SZHJO4iww1_CJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876771859949-umj31f5iujufkk6ur8eegtegql16dsiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
